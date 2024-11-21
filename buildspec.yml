@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Building the web application..."
+      - echo "Build completed!"
+
+artifacts:
+  files:
+    - index.html
