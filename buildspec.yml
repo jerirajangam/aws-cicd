@@ -6,8 +6,3 @@ phases:
       - echo "Building the web application..."
       - echo "Build completed!"
 
-artifacts:
-  files:
-    - index.html
-    - appspec.yml
-    - scripts/
